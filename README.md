@@ -10,12 +10,14 @@ input_value = 6
 
 def n_above_inputs(array,value)
     '''
-    Print's the number of integer array that are above the given input  value and the number that are below the input value
+    Print's the number of integer array that are above the given input value
+    and the number that are below the input value
     '''
 
     return result
 
-print(n_above_inputs(input_arr,input_value)) # prints: {"above":1,"below":4}
+print(n_above_inputs(input_arr,input_value)) 
+# prints: {"above":1,"below":4}
 ```
 
 
