@@ -77,7 +77,11 @@ Run Tests
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/akibmr)
+
 [HomeCheff](https://homecheff.herokuapp.com/)
+
 [Open-Lib](https://open-lib.herokuapp.com/) ... [Ask me for demo]
+
 [Perfect Sense Blog](https://perfectsenseblog.herokuapp.com/) ... [use 'testuser' for username and password]
+
 [HackOrSnooze](https://akibrhast.github.io/Hack-Or-Snooze/)
