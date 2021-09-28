@@ -33,3 +33,11 @@ print(rotate_string("MyString", 2))
 ```
 
 3. If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+```python
+# My favourite language would be python at the moment,
+# and my favourite framework would be flask.
+# The flask framework has some typical common design pattern of begeiner , intermediary and advanced level
+# I have often wished for the core framework to come bootstrapped with commands such that it will allow for hoisting the structure of said level of design pattern
+# For example, I could possibly do something like `flask hoist entry/intermediary/advanced`
+```
