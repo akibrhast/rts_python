@@ -43,15 +43,41 @@ print(rotate_string("MyString", 2))# prints: "mgMyStri"
 # `flask hoist entry/intermediary/advanced`
 ```
 
-## Running Tests
 
-To run tests, run the following command
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/akibrhast/rts_python.git
+```
+
+Go to the project directory
+
+```bash
+  cd rts_python
+```
+
+Install dependencies
+
+```bash
+  python -m venv env
+  pip install -r requirements.txt
+```
+
+Run Tests
 
 ```bash
   pytest -v
 ```
 
 
+
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/akibmr)
+[HomeCheff](https://homecheff.herokuapp.com/)
+[Open-Lib](https://open-lib.herokuapp.com/) ... [Ask me for demo]
+[Perfect Sense Blog](https://perfectsenseblog.herokuapp.com/) ... [use 'testuser' for username and password]
+[HackOrSnooze](https://akibrhast.github.io/Hack-Or-Snooze/)
