@@ -11,6 +11,12 @@ import pytest
 def test_n_above_inputs(test_input_array, test_input_value,expected):
     assert n_above_inputs(test_input_array,test_input_value) == expected
 
-
-def test_rotate_string():
-    assert rotate_string("MyString", 2) == "ngMyStri"
+@pytest.mark.parametrize(
+    "string_to_be_rotated, no_of_chracters_to_be_rotated, expected",
+    [
+        ("MyString", 2, "ngMyStri"),
+        ("catgotyou", 4, "tyoucatgo")
+    ],
+)
+def test_rotate_string(string_to_be_rotated, no_of_chracters_to_be_rotated, expected):
+    assert rotate_string(string_to_be_rotated, no_of_chracters_to_be_rotated) == expected
